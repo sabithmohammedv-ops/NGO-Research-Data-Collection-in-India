@@ -45,7 +45,7 @@ The research covers NGOs working in the following social sectors:
 | File Name | Description |
 |---|---|
 | `NGO Research & Data Collection.xlsx` | Main dataset containing research information about 10 NGOs. |
-| `README.md` | Project documentation and overview. |
+
 
 ## 🔍 Research Methodology
 
